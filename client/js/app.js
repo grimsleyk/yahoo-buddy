@@ -1,1 +1,1 @@
-angular.module('yahoo-buddy', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'NerdService']);
+angular.module('yahoo-buddy', ['ngRoute', 'appRoutes', 'MainCtrl', 'NerdCtrl', 'YahooCtrl', 'NerdService']);
